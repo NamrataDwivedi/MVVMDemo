@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shaadi</string>
+    <string name='alertmessage_no_internet_title' translatable="false">Internet Connection Required</string>
+    <string name='alertmessage_no_internet_msg' translatable="false">This app requires a connection to the Internet.  Please turn on cellular data or connect to the Internet.</string>
+</resources>
